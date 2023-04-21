@@ -9,7 +9,7 @@ This is a simple Flutter app code snippet that uses the Material library. The ap
 
 Here's a brief explanation of the code:
 
-<img src="Simulator Screen Shot - iPhone 14 Pro - 2023-04-21 at 19.24.13.png" alt="Screenshot" width="500"/>
+<img src="Simulator Screen Shot - iPhone 14 Pro - 2023-04-21 at 19.24.13.png" alt="Screenshot" width="200"/>
 
 
 ## Flutter Diamond App Code Snippet
